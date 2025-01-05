@@ -47,7 +47,9 @@ h6 {
 }
 
 /* 8. Improve line wrapping */
-p {
+p,
+li,
+figcaption {
   text-wrap: pretty;
 }
 h1,
